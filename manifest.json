@@ -1,4 +1,7 @@
 {
   "name": "prueba manifest",
+  "short_name": "p1",
   "description": "This app helps you donate to worthy causes.",
+  "start_url": "https://juanitalahuerfanita.github.io/omega_firebase",
+  "display":"standalone"
 }
